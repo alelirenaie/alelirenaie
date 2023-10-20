@@ -12,7 +12,7 @@
 
 📚 In my free time, I love to engage in new learning experiences. Let's connect and collaborate and make data-driven magic happen!
 
-📫 Feel free to reach out to me at alelirenaie@gmail.com or +1 (780) 235-0201. References are available upon request. 📇
+📫 Feel free to reach out to me at alelirenaie@gmail.com. 
 
 <!---
 alelirenaie/alelirenaie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
