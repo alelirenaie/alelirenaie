@@ -4,9 +4,9 @@
 
 🧠 My toolbox includes technical skills in Python, SAP, MySQL, R, and Microsoft Office, complemented by soft skills such as effective communication, time management, teamwork, and unwavering attention to detail.
 
-🌟 Currently, I'm a Night Auditor at the River Cree Resort & Casino, ensuring smooth end-of-day operations, balancing reports, and addressing guest needs professionally. I am also still a part-time crew at McDonald's, where I usually manage drive-thru operations and ensure customer satisfaction.
+🌟 Currently, I'm a Night Auditor at the River Cree Resort & Casino, ensuring smooth end-of-day operations, balancing reports, and addressing guest need professionally. I am also still a part-time crew at McDonald's, where I usually manage drive-thru operations and ensure customer satisfaction.
 
-💼 I also have experience as a Project Payables Technician at Fluor Daniel, Inc., where I managed project-related finances and effectively communicated with various stakeholders. During my tenure at the Bank Of the Philippine Islands, I facilitated daily financial services and maintained positive relationships with clients and vendors.
+💼 I also have experience in Corporate Finance, where I managed project-related finances and effectively communicated with various stakeholders. I also facilitated daily financial services and maintained positive relationships with clients and vendors.
 
 🎓 I'm currently pursuing a Machine Learning Analyst Diploma at NorQuest College, where I am actively engaged as an RBC Student Ambassador, a member of the Academic Council, a SANCQ Volunteer, and part of NorQuest Esports Female Varsity Team
 
